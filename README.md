@@ -6,7 +6,7 @@ This project is a console-based application designed for managing a pizza restau
 
 ## Team Members
 - **Pradyumna Mahajan**
-- **Mitali Gupta** (@mitaligupta141)
+- **[Mitali Gupta](https://github.com/mitaligupta141)**
 
 ## Technologies Used
 - **Core Java**
@@ -48,3 +48,9 @@ The project comprises two modules:
 1. Compile the Java code.
    ```bash
    javac -d bin src/com/pizzabite/main/Main.java
+   ```
+2. Run the application.
+   ```bash
+   java -cp bin com.pizzabite.main.Main
+   ```
+
